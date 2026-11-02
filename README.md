@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=AB6664&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=ABA299&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=AB6664&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=70685F&abbreviated=true&style=for-the-badge)
 
 
 <p align="center">
@@ -16,7 +16,7 @@
         <br>
             <p align="right">
               <a href="https://github.com/kittinan/spotify-github-profile">
-           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=784E5C&bar_color_cover=false">
+           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=70685F&bar_color_cover=false">
                 </a>
               </p>
         </p>
@@ -40,9 +40,9 @@
 
   
   
-${\textsf{\color{#9A5662}    Hiya, my name's Danny and I'm 17 years old.}}$
+${\textsf{\color{#ABA299}    Hiya, my name's Danny and I'm 17 years old.}}$
 
-${\textsf{\color{#9A5662}    I prefer if people under 15 iwc or just don't int}}$
+${\textsf{\color{#ABA299}    I prefer if people under 15 iwc or just don't int}}$
 
 ${\textsf{\color{#7B4F5D}    unless we're close friends. I'm filipino-american,}}$
 

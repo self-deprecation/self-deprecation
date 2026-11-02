@@ -55,7 +55,7 @@ ${\textsf{\color{#292a2a}    based off who is fronting. please iwec alwa
 
 [新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
 
-${\textsf{\color{#4C453E}    Feel free to sign my ata ! My straw needs to be updated..}}$
+${\textsf{\color{#414445}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
 
 

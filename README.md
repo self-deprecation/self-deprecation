@@ -50,12 +50,12 @@ ${\textsf{\color{#494038}    and i am currently teaching myself hangul +
 
 ${\textsf{\color{#4C453E}    Transgay and taken. I prefer he/they pronouns.}}$
 
-${\textsf{\color{#ABA299}    I'm the host of a system, my personality differs}}$
-${\textsf{\color{#ABA299}    based off who is fronting. please iwec always<3}}$
+${\textsf{\color{#494038}    I'm the host of a system, my personality differs}}$
+${\textsf{\color{#494038}    based off who is fronting. please iwec always<3}}$
 
 [新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
 
-${\textsf{\color{#494038}    Feel free to sign my ata ! My straw needs to be updated..}}$
+${\textsf{\color{#4C453E}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
 
 

@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=a8a5a4&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=c7c4c4&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=666261&abbreviated=true&style=for-the-badge)
 
 
 <p align="center">

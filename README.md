@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=ABA299&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=bec0c2&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=70685F&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=bec0c2&abbreviated=true&style=for-the-badge)
 
 
 <p align="center">
@@ -16,7 +16,7 @@
         <br>
             <p align="right">
               <a href="https://github.com/kittinan/spotify-github-profile">
-           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=70685F&bar_color_cover=false">
+           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=292a2a&bar_color_cover=false">
                 </a>
               </p>
         </p>
@@ -40,18 +40,18 @@
 
   
   
-${\textsf{\color{#ABA299}    Hiya, my name's Danny and I'm 17 years old.}}$
+${\textsf{\color{#8f9295}    Hiya, my name's Danny and I'm 17 years old.}}$
 
-${\textsf{\color{#ABA299}    I prefer if people under 15 iwc or just don't int}}$
+${\textsf{\color{#8f9295}    I prefer if people under 15 iwc or just don't int}}$
 
-${\textsf{\color{#494038}    unless we're close friends. I'm filipino-american,}}$
+${\textsf{\color{#5c6263}    unless we're close friends. I'm filipino-american,}}$
 
-${\textsf{\color{#494038}    and i am currently teaching myself hangul + tagalog}}$
+${\textsf{\color{#5c6263}    and i am currently teaching myself hangul + tagalog}}$
 
-${\textsf{\color{#4C453E}    Transgay and taken. I prefer he/they pronouns.}}$
+${\textsf{\color{#414445}    Transgay and taken. I prefer he/they pronouns.}}$
 
-${\textsf{\color{#494038}    I'm the host of a system, my personality differs}}$
-${\textsf{\color{#494038}    based off who is fronting. please iwec always<3}}$
+${\textsf{\color{#292a2a}    I'm the host of a system, my personality differs}}$
+${\textsf{\color{#292a2a}    based off who is fronting. please iwec always<3}}$
 
 [新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
 
@@ -64,7 +64,7 @@ ${\textsf{\color{#4C453E}    Feel free to sign my ata ! My straw needs t
       <th>
         <br>
             <p align="center">
-                ${\textsf{\color{#494038}    Sweethearts<3}}$
+                ${\textsf{\color{#8f9295}    Sweethearts<3}}$
             </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Illumina,](https://github.com/infinitesourceofrisks) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
               </p>
         </p>

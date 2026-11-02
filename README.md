@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=bec0c2&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=c7c4c4&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=bec0c2&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=c7c4c4&abbreviated=true&style=for-the-badge)
 
 
 <p align="center">
@@ -40,22 +40,22 @@
 
   
   
-${\textsf{\color{#8f9295}    Hiya, my name's Danny and I'm 17 years old.}}$
+${\textsf{\color{#888483}    Hiya, my name's Danny and I'm 17 years old.}}$
 
-${\textsf{\color{#8f9295}    I prefer if people under 15 iwc or just don't int}}$
+${\textsf{\color{#888483}    I prefer if people under 15 iwc or just don't int}}$
 
-${\textsf{\color{#5c6263}    unless we're close friends. I'm filipino-american,}}$
+${\textsf{\color{#a8a5a4}    unless we're close friends. I'm filipino-american,}}$
 
-${\textsf{\color{#5c6263}    and i am currently teaching myself hangul + tagalog}}$
+${\textsf{\color{#a8a5a4}    and i am currently teaching myself hangul + tagalog}}$
 
-${\textsf{\color{#414445}    Transgay and taken. I prefer he/they pronouns.}}$
+${\textsf{\color{#666261}    Transgay and taken. I prefer he/they pronouns.}}$
 
-${\textsf{\color{#292a2a}    I'm the host of a system, my personality differs}}$
-${\textsf{\color{#292a2a}    based off who is fronting. please iwec always<3}}$
+${\textsf{\color{#484443}    I'm the host of a system, my personality differs}}$
+${\textsf{\color{#484443}    based off who is fronting. please iwec always<3}}$
 
 [新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
 
-${\textsf{\color{#414445}    Feel free to sign my ata ! My straw needs to be updated..}}$
+${\textsf{\color{#666261}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
 
 
@@ -64,7 +64,7 @@ ${\textsf{\color{#414445}    Feel free to sign my ata ! My straw needs t
       <th>
         <br>
             <p align="center">
-                ${\textsf{\color{#8f9295}    Sweethearts<3}}$
+                ${\textsf{\color{#888483}    Sweethearts<3}}$
             </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Illumina,](https://github.com/infinitesourceofrisks) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
               </p>
         </p>

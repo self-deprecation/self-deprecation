@@ -8,7 +8,7 @@
 <p align="center">
 <div align=center">
 <p align="center">
-<img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="420" />
+<img align="right" src="https://file.garden/ahDTcBtNXw2HO0ux/ezgif.com-gif-maker_1.gif" alt="image" width="420" />
 
 ㅤ<table border="20" align="right">
     <tr align="center"></tr>

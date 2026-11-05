@@ -32,6 +32,14 @@
   
   
   
+    
+  
+  
+  
+    
+  
+  
+  
   
   
   
@@ -51,8 +59,9 @@ ${\textsf{\color{#a8a5a4}    and i am currently teaching myself hangul +
 
 ${\textsf{\color{#666261}    Transgay and taken. I prefer he/they pronouns.}}$
 
-${\textsf{\color{#484443}    I'm the host of a system, my personality differs}}$
-${\textsf{\color{#484443}    based off who is fronting. please iwec always<3}}$
+${\textsf{\color{#484443}    I'm the host of a system.}}$
+
+${\textsf{\color{#484443}    My personality differs based off who is fronting. Please iwec always<3}}$
 
 [新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
 
@@ -68,7 +77,7 @@ ${\textsf{\color{#666261}    Feel free to sign my ata ! My straw needs t
         <br>
             <p align="center">
                 ${\textsf{\color{#888483}    Sweethearts<3}}$
-            </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Illumina,](https://github.com/infinitesourceofrisks) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
+            </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
               </p>
         </p>
         ㅤ<br>

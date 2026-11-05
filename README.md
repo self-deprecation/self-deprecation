@@ -8,9 +8,9 @@
 <p align="center">
 <div align=center">
 <p align="center">
-<img align="right" src="https://file.garden/ahDTcBtNXw2HO0ux/ezgif.com-gif-maker_2.gif" alt="image" width="420" />
+<img align="right" src="https://file.garden/ahDTcBtNXw2HO0ux/ezgif.com-gif-maker_2.gif" alt="image" width="590" />
 
-ㅤ<table border="20" align="right">
+ㅤ<table border="20" align="left">
     <tr align="center"></tr>
       <th>
         <br>
@@ -39,7 +39,8 @@
   
 
   
-  
+<div align="left">
+    
 ${\textsf{\color{#888483}    Hiya, my name's Danny and I'm 17 years old.}}$
 
 ${\textsf{\color{#888483}    I prefer if people under 15 iwc or just don't int}}$
@@ -58,8 +59,10 @@ ${\textsf{\color{#484443}    based off who is fronting. please iwec alwa
 ${\textsf{\color{#666261}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
 
+</div>
 
-ㅤ<table border="20" align="right">
+
+ㅤ<table border="20" align="left">
     <tr align="center"></tr>
       <th>
         <br>

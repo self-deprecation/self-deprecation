@@ -77,7 +77,7 @@ ${\textsf{\color{#666261}    Feel free to sign my ata ! My straw needs t
         <br>
             <p align="center">
                 ${\textsf{\color{#888483}    Sweethearts<3}}$
-            </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
+            </p>Mahal, Lisid, Hayden, [Willy,](https://github.com/Azoaj) [Tiger,](https://github.com/heavenslapdog) [Hetmon,](https://github.com/Hetm0ngi) [Emi,](https://github.com/readb44int) [Sho](https://github.com/82-major)</p>
               </p>
         </p>
         ㅤ<br>

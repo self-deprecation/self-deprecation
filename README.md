@@ -63,7 +63,7 @@ ${\textsf{\color{#484443}    I'm the host of a system.}}$
 
 ${\textsf{\color{#484443}    My personality differs based off who is fronting. Please iwec always<3}}$
 
-[新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
+[新book](https://love-you-todeath.atabook.org/)  [important: please read](https://rentry.co/mental-note)
 
 ${\textsf{\color{#666261}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
